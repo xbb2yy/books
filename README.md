@@ -6,9 +6,9 @@
 :green_apple:
 
 ## Java
-* Java编程思想(第四版) 必看,加深自己对Java的理解，顺便还能把设计模式给学了
-* Java并发编程的艺术 
-* JAVA并发编程实战 和Java并发编程的艺术二选一就可以了
+* Java编程思想(第四版) :apple: 必看,加深自己对Java的理解，顺便还能把设计模式给学了
+* Java并发编程的艺术 :green_apple:
+* JAVA并发编程实战 :apple: 和Java并发编程的艺术二选一就可以了
 
 ## 基础
 * 鸟哥的Linux私房菜-基础学习篇第四版
