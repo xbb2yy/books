@@ -5,12 +5,15 @@
 
 ## Java
 * :apple: Java编程思想(第四版)  必看,加深自己对Java的理解，顺便还能把设计模式给学了
-*  Java并发编程的艺术 
+* Java并发编程的艺术 
 * :apple: JAVA并发编程实战  和Java并发编程的艺术二选一就可以了
+* Spring源码深度解析
+* 阿里巴巴Java开发手册1.4.0 
 
 ## 基础
 * 鸟哥的Linux私房菜-基础学习篇第四版
 * 图解设计模式
+* :apple: [深入理解计算机系统](https://pan.baidu.com/s/1BM9yl5hpvE1wJ7GerdmvIw)  百度提取码 n4v9 如果不是科班出身的程序员，但又想理解程序的运作原理，看这本书就够了,国内外很多知名大学的计算机教科书
 
 ## 其他语言
 * The C Programming Language 中文版
